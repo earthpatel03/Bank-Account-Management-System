@@ -1,2 +1,3 @@
 # Bank-Account-Management-System
 The Bank Management System is a Python-based application that uses a MySQL database to perform basic banking operations such as account creation, deposits, withdrawals, and balance checking. It ensures proper transaction handling by maintaining records and applying rules like daily withdrawal limits.
+The system also supports features like transaction history tracking and automatic interest calculation, making it closer to real-world banking functionality. Overall, it helps in managing financial data efficiently and can be further improved with advanced security and user interface features.
